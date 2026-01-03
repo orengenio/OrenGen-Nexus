@@ -1,0 +1,9 @@
+{
+  "name": "OrenGen Nexus",
+  "description": "State-of-the-art AI-infused enterprise operating system for revenue generation and infrastructure management.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
